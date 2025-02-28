@@ -1,4 +1,5 @@
 <?php
+namespace markcolin\HelloWorld;
 /**
  * @Notes:
  * @Author: qinfuxing
