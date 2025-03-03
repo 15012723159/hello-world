@@ -1,5 +1,5 @@
 <?php
-namespace markcolin\HelloWorld;
+namespace markcolin\helloworld;
 /**
  * @Notes:
  * @Author: qinfuxing
